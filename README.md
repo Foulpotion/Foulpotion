@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Balraj
-- 👀 I’m interested in coding and web development 
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in Data science and Machine Learning.
+- 🌱 I’m currently learning Python
+-  I'm fluent in C/C++ but generally prefer coding in C++.
 - 📫 How to reach me- Instagram- @balraj.03
 
 <!---
